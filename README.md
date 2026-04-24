@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js and Cloud Services (AWS, GCP, Azure)**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Amhar-Arif)
-- 📫 How to reach me **mamamhar254@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
